@@ -107,9 +107,9 @@
         justify-content: center;
         flex-direction: column;
         align-items: center;
-        width: 95%;
-        max-width: 1080px; 
-        min-height: 92vh;
+        width: 100%;
+        max-width: 1480px; 
+        min-height: 100vh;
         height: 78%;
         background: url(../../assets/images/background-pattern-desktop.svg) no-repeat ;
         background-color: hsl(275, 100%, 97%);
@@ -197,10 +197,9 @@
         justify-content: center;
         flex-direction: column;
         align-items: center;
-        width: 95%;
-        max-width: 1180px; 
-        min-height: 92vh;
-        height: 70%;
+        width: 100%;
+        max-width: 1440px; 
+        min-height: 100vh;
         background: url(../../assets/images/background-pattern-desktop.svg) no-repeat ;
         background-color: hsl(275, 100%, 97%);
         background-position: top;
@@ -208,7 +207,7 @@
     .card{
         background-color: white;
         width: 490px;
-        min-height: 44%;
+        min-height: 45%;
         height: auto;
         border-radius: 10px;
         box-shadow: 1px 1px 18px 1px rgba(161, 160, 160, 0.204);
