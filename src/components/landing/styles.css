@@ -109,7 +109,7 @@
         align-items: center;
         width: 95%;
         max-width: 1080px; 
-        min-height: 95vh;
+        min-height: 92vh;
         height: 78%;
         background: url(../../assets/images/background-pattern-desktop.svg) no-repeat ;
         background-color: hsl(275, 100%, 97%);
@@ -199,8 +199,8 @@
         align-items: center;
         width: 95%;
         max-width: 1180px; 
-        min-height: 95vh;
-        height: 78%;
+        min-height: 92vh;
+        height: 70%;
         background: url(../../assets/images/background-pattern-desktop.svg) no-repeat ;
         background-color: hsl(275, 100%, 97%);
         background-position: top;
