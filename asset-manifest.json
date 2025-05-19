@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-faq-component/static/css/main.6b5ecc14.css",
+    "main.js": "/react-faq-component/static/js/main.cd7105d7.js",
+    "static/js/453.4940cf0d.chunk.js": "/react-faq-component/static/js/453.4940cf0d.chunk.js",
+    "static/media/WorkSans-Bold.ttf": "/react-faq-component/static/media/WorkSans-Bold.1cdef49100a51e35264a.ttf",
+    "static/media/WorkSans-Regular.ttf": "/react-faq-component/static/media/WorkSans-Regular.7c5aca8a8c320a8df026.ttf",
+    "static/media/background-pattern-desktop.svg": "/react-faq-component/static/media/background-pattern-desktop.621478cf83f8150af604.svg",
+    "index.html": "/react-faq-component/index.html",
+    "static/media/icon-star.svg": "/react-faq-component/static/media/icon-star.189fd38b8aefdc8fbe0d4008b1ff497e.svg",
+    "static/media/icon-plus.svg": "/react-faq-component/static/media/icon-plus.6c5381bcc9a768ea5c3683e11c6bfd6c.svg",
+    "static/media/icon-minus.svg": "/react-faq-component/static/media/icon-minus.5575b6de09a1e0deab1dd585ada35f31.svg",
+    "main.6b5ecc14.css.map": "/react-faq-component/static/css/main.6b5ecc14.css.map",
+    "main.cd7105d7.js.map": "/react-faq-component/static/js/main.cd7105d7.js.map",
+    "453.4940cf0d.chunk.js.map": "/react-faq-component/static/js/453.4940cf0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b5ecc14.css",
+    "static/js/main.cd7105d7.js"
+  ]
+}
